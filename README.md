@@ -1,7 +1,3 @@
-Absolutely! Here's the revised README file with the provided details:
-
----
-
 # Power BI Analytics: Unveiling Insights, Empowering Decisions
 
 Welcome to the Power BI Analytics project repository by Raghavendra KN! 🚀
